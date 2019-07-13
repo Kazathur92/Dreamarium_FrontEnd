@@ -1,0 +1,262 @@
+.navBarDiv {
+  margin-top: -4.2%;
+}
+
+.sideBarIconsDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border: solid rgb(27, 27, 27) 5px;
+  border-bottom-color: rgb(175, 115, 58);
+  width: 90%;
+  max-height: 50px;
+  padding: 30px;
+  margin-left: 30px;
+  border-radius: 15px;
+}
+
+.iconContainer {
+
+}
+.woop {
+  /* border: solid black 3px; */
+  /* height: 100px;
+  width:60px;
+  margin-top: -32px; */
+}
+
+.dreamWorldIcon {
+  font-size: 50px;
+  color: blue;
+  margin-left: 10px;
+  /* border: solid black 3px; */
+}
+
+.dreamWorldIcon:hover {
+  font-size: 70px;
+  color: blue;
+  margin-left: 3px;
+}
+
+.dreamWorldIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(0, 13, 128);
+}
+
+.dreamZoneIcon {
+  font-size: 50px;
+  color: green;
+  margin-left: 10px;
+}
+
+.dreamZoneIcon:hover {
+  font-size: 70px;
+  color: green;
+  margin-left: 3px;
+}
+
+.dreamZoneIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(3, 83, 3);
+}
+
+.cityLifeIcon {
+  font-size: 50px;
+  color: rgb(63, 63, 90);
+}
+
+.cityLifeIcon:hover {
+  font-size: 70px;
+  color: rgb(63, 63, 90);
+}
+
+.cityLifeIcon:active {
+  font-size: 60px;
+  color: rgb(14, 14, 19);
+}
+
+.fantasyRealmIcon {
+  font-size: 50px;
+  color: rgb(97, 73, 73);
+}
+
+.fantasyRealmIcon:hover {
+  font-size: 70px;
+  color: rgb(97, 73, 73);
+}
+
+.fantasyRealmIcon:active {
+  font-size: 60px;
+  color: rgb(73, 56, 56);
+}
+
+
+.horrorLandIcon {
+  font-size: 50px;
+  color: rgb(179, 179, 179);
+}
+
+.horrorLandIcon:hover {
+  font-size: 70px;
+  color: rgb(179, 179, 179);
+}
+
+.horrorLandIcon:active {
+  font-size: 60px;
+  color: rgb(163, 94, 4);
+}
+
+.pirateSeasIcon {
+  font-size: 40px;
+  color: rgb(77, 118, 207);
+}
+
+.pirateSeasIcon:hover {
+  font-size: 60px;
+  color: rgb(77, 118, 207);
+}
+
+.pirateSeasIcon:active {
+  font-size: 60px;
+  color: rgb(24, 66, 158);
+}
+
+
+.cosmicVoyageIcon {
+  font-size: 50px;
+  color: rgb(107, 14, 184);
+}
+
+.cosmicVoyageIcon:hover {
+  font-size: 70px;
+  color: rgb(107, 14, 184);
+}
+
+.cosmicVoyageIcon:active {
+  font-size: 60px;
+  color: rgb(78, 12, 131);
+}
+
+.icicleMountainsIcon {
+  font-size: 50px;
+  color: rgb(125, 187, 245);
+  margin-left: 10px;
+  /* border: solid black 3px; */
+}
+
+.icicleMountainsIcon:hover {
+  font-size: 70px;
+  color: rgb(125, 187, 245);
+  margin-left: 3px;
+}
+
+.icicleMountainsIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(100, 152, 201);
+}
+
+.smolderVolcanoIcon {
+  font-size: 50px;
+  color: rgb(197, 27, 27);
+  margin-left: 10px;
+  /* border: solid black 3px; */
+}
+
+.smolderVolcanoIcon:hover {
+  font-size: 70px;
+  color: rgb(197, 27, 27);
+  margin-left: 3px;
+}
+
+.smolderVolcanoIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(141, 24, 24);
+}
+
+.westernCanyonsIcon {
+  font-size: 50px;
+  color: rgb(148, 64, 7);
+  margin-left: 10px;
+  /* border: solid black 3px; */
+}
+
+.westernCanyonsIcon:hover {
+  font-size: 70px;
+  color: rgb(148, 64, 7);
+  margin-left: 3px;
+}
+
+.westernCanyonsIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(105, 46, 7);
+}
+
+.pharaoglyphicTombsIcon {
+  font-size: 50px;
+  color: rgb(206, 161, 15);
+  margin-left: 10px;
+  /* border: solid black 3px; */
+}
+
+.pharaoglyphicTombsIcon:hover {
+  font-size: 70px;
+  color: rgb(206, 161, 15);
+  margin-left: 3px;
+}
+
+.pharaoglyphicTombsIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(158, 125, 18);
+}
+
+.abyssIcon {
+  font-size: 50px;
+  color: rgb(17, 173, 153);
+  margin-left: 10px;
+  /* border: solid black 3px; */
+}
+
+.abyssIcon:hover {
+  font-size: 70px;
+  color: rgb(17, 173, 153);
+  margin-left: 3px;
+}
+
+.abyssIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(20, 148, 131);
+}
+
+.afterworldIcon {
+  font-size: 50px;
+  color: rgb(194, 42, 118);
+  margin-left: 10px;
+  /* border: solid black 3px; */
+}
+
+.afterworldIcon:hover {
+  font-size: 70px;
+  color: rgb(194, 42, 118);
+  margin-left: 3px;
+}
+
+.afterworldIcon:active {
+  font-size: 60px;
+  margin-top: 10px;
+  margin-left: 6px;
+  color: rgb(133, 32, 82);
+}
